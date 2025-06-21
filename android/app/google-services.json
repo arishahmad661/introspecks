@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398079655162",
+    "project_id": "binary-brains-95f47",
+    "storage_bucket": "binary-brains-95f47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398079655162:android:fb53b70ce1018471b69d43",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tVtZuija8tXpea0R6KVOyD6I-3z1esA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
