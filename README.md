@@ -6,7 +6,7 @@ A Flutter app to write and store diary entries based on your mood and receive mo
 - Mood-based journaling UI
 - Date picker for backdated entries
 - Beautiful Firestore-based diary entry storage
-- Motivational quotes fetched from [Quotable API](https://quotable.io)
+- Motivational quotes fetched from [Quotable API](https://github.com/lukePeavey/quotable)
 - Hosted on Firebase + release-ready APK
 
 ## 📂 Project Structure
