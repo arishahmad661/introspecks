@@ -1,7 +1,9 @@
 # 🪞 Introspee - Mood-Based Diary & Quote App
 
 A Flutter app to write and store diary entries based on your mood and receive motivational quotes.
+
 Live Website [Introspee](https://binary-brains-95f47.web.app/)
+
 Release APK [Google Drive](https://drive.google.com/file/d/1SofQikn8l4B3xBlkNkluqsEGJHnGD0oc)
 
 ## ✨ Features
